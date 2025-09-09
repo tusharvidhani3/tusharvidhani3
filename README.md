@@ -13,10 +13,10 @@ I'm a self-taught **full-stack developer** from India
 
 Here are some of the projects I've built recently:
 
-- **Full-Stack E-commerce App** – A single-seller e-commerce platform developed using Spring Boot in backend and ReactJS in frontend.
+- **Full-Stack E-commerce App** – A single-seller e-commerce platform developed using Spring Boot in backend and React.js in frontend.
 
 *(More projects coming soon… I am constantly building and improving.)*
 
 ## 📫 Connect with me
 
-- LinkedIn: [https://linkedin.com/in/tushar-vidhani](https://www.linkedin.com/in/tushar-vidhani-b08756285/)
+- LinkedIn: [linkedin.com/in/tusharvidhani](linkedin.com/in/tusharvidhani/)
